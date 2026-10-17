@@ -57,7 +57,7 @@
         <p class="bp-from">made with love</p>
       </div>`;
     p.querySelector('.bp-name').textContent = C.name;
-    p.querySelector('.bp-born').textContent = `born ${C.birthday} · ${C.sign}`;
+    p.querySelector('.bp-born').textContent = `born ${C.birthday}${C.sign ? ` · ${C.sign}` : ''}`;
     return p;
   };
 

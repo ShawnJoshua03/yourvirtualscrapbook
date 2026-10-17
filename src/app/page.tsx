@@ -11,7 +11,11 @@ export default function Home() {
         Every friend sends a note and a few photos. Each one becomes its own page, designed around what they wrote,
         in a book you flip through like the real thing.
       </p>
-      <Link className={styles.cta} href="/demo">Flip through a demo book →</Link>
+      <div className={styles.ctas}>
+        <Link className={styles.cta} href="/login">Make a book</Link>
+        {/* a full page load: the book engine starts once per page */}
+        <a className={styles.ctaGhost} href="/demo">Flip through a demo →</a>
+      </div>
     </main>
   );
 }

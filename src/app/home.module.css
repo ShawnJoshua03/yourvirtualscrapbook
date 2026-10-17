@@ -30,3 +30,6 @@
   .lede { color: #c9bdb1; }
   .cta { background: #f6efe3; color: #1d1714; }
 }
+.ctas { display: flex; flex-wrap: wrap; gap: 12px; }
+.ctaGhost { min-height: 44px; padding: 12px 22px; border-radius: 999px; border: 1px solid #d9c9b4; color: inherit; font-weight: 700; text-decoration: none; }
+.ctaGhost:focus-visible { outline: 3px solid #3f9fe8; outline-offset: 3px; }
