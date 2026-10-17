@@ -1,0 +1,4 @@
+/* Site-wide base. The scrapbook itself is styled under .yvs-book (src/engine/styles). */
+*, *::before, *::after { box-sizing: border-box; }
+html, body { height: 100%; }
+body { margin: 0; -webkit-font-smoothing: antialiased; }
