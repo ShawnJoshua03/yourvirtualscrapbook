@@ -1,5 +1,7 @@
 # Yourvirtualscrapbook
 
+**[Live site](https://yourvirtualscrapbook.vercel.app)** · **[Portfolio](https://shawnjoshua03.github.io/)**
+
 A birthday book from everyone who loves them. Every friend sends a note and a few photos, and each one becomes its
 own page, designed around what they wrote, in a book you flip through like the real thing.
 
