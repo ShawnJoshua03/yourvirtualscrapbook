@@ -1,6 +1,24 @@
+<div align="center">
+
 # Yourvirtualscrapbook
 
+**A birthday book from everyone who loves them.**
+
+[![Live demo](https://img.shields.io/badge/Live%20demo-yourvirtualscrapbook.vercel.app-black?style=for-the-badge&logo=vercel)](https://yourvirtualscrapbook.vercel.app)
+[![Write-up](https://img.shields.io/badge/Write--up-read%20the%20story-blue?style=for-the-badge)](https://shawnjoshua03.github.io/stories/yourvirtualscrapbook/)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
+
+<img src="https://shawnjoshua03.github.io/images/yourvirtualscrapbook.jpg" alt="Yourvirtualscrapbook screenshot" width="800">
+
 **[Live site](https://yourvirtualscrapbook.vercel.app)** · **[Portfolio](https://shawnjoshua03.github.io/)**
+
+</div>
 
 A birthday book from everyone who loves them. Every friend sends a note and a few photos, and each one becomes its
 own page, designed around what they wrote, in a book you flip through like the real thing.
